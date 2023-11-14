@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 
-# 💫 About Me:
+#  About Me:
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=34&center=true&vCenter=true&width=1000&lines=Oiee!Prazer,+me+chamo+Marina!+;)](https://git.io/typing-svg)
